@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
             // This method will be executed once the timer is over
             // Start your app main activity
 
-            startActivity(Intent(this,Dashboard::class.java))
+            startActivity(Intent(this,Welcome::class.java))
 
             // close this activity
             finish()
