@@ -11,5 +11,11 @@
     <color name="bgTwo">#64B6FF</color>
     <color name="textColorOne">#707070</color>
     <color name="textColorTwo">#454242</color>
+    <color name="searchIcon">#818181</color>
+    <color name="womenColor">#B364B1FD</color>
+    <color name="menColor">#B3FF5858</color>
+    <color name="kidColor">#B343E97B</color>
+
+
 
 </resources>

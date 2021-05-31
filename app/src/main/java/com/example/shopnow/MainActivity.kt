@@ -27,7 +27,12 @@ class MainActivity : AppCompatActivity() {
         window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_FULLSCREEN
 // Remember that you should never show the action bar if the
 // status bar is hidden, so hide that too if necessary.
-        actionBar?.hide()
+//        actionBar?.hide()
+        // Take instance of Action Bar
+        // using getSupportActionBar and
+        // if it is not Null
+        // then call hide function
+        supportActionBar?.hide()
         setContentView(R.layout.activity_main)
 
         //Animations

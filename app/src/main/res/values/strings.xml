@@ -16,4 +16,9 @@
     <string name="signup">Signup</string>
     <string name="todo">TODO</string>
     <string name="loginTextView">Login</string>
+    <string-array name="categories">
+        <item>Women</item>
+        <item>Men</item>
+        <item>Kids</item>
+    </string-array>
 </resources>
